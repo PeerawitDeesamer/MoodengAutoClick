@@ -1,4 +1,4 @@
 # MoodengAutoClick
 Moodeng Auto Click
 Tutorial 
-1.opne run.bat file
+1.open run.bat file
